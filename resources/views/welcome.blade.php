@@ -291,7 +291,7 @@
                 <!-- Zeekr 7X 2025 -->
                 <div class="group relative bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
                     <div class="relative overflow-hidden h-64">
-                        <img src="https://cdn.motor1.com/images/mgl/6ZZv2O/s1/zeekr-7x.webp" alt="Zeekr 7X 2025" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                        <img src="images/zeekr7x.jpg" alt="Zeekr 7X 2025" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                         <div class="absolute inset-0 bg-gradient-to-t from-gray-900/70 via-gray-900/30 to-transparent"></div>
                         <div class="absolute top-4 right-4">
                             <span class="px-3 py-1 bg-pink-500 text-white text-xs font-semibold rounded-full">НОВИНКА 2025</span>
@@ -331,7 +331,7 @@
                 <!-- BYD Yangwang U8 -->
                 <div class="group relative bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
                     <div class="relative overflow-hidden h-64">
-                        <img src="https://cdn.motor1.com/images/mgl/4MqAe/s1/byd-yangwang-u8.webp" alt="BYD Yangwang U8" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                        <img src="images/BYDYangwangU8.jpg" alt="BYD Yangwang U8" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                         <div class="absolute inset-0 bg-gradient-to-t from-gray-900/70 via-gray-900/30 to-transparent"></div>
                         <div class="absolute top-4 right-4">
                             <span class="px-3 py-1 bg-indigo-500 text-white text-xs font-semibold rounded-full">LUXURY</span>
@@ -371,7 +371,7 @@
                 <!-- Changan UNI-K -->
                 <div class="group relative bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
                     <div class="relative overflow-hidden h-64">
-                        <img src="https://cdn.motor1.com/images/mgl/6ZZv2O/s1/zeekr-7x.webp" alt="Changan UNI-K" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                        <img src="images/ChanganUNI-K.jpg" alt="Changan UNI-K" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                         <div class="absolute inset-0 bg-gradient-to-t from-gray-900/70 via-gray-900/30 to-transparent"></div>
                         <div class="absolute top-4 right-4">
                             <span class="px-3 py-1 bg-pink-500 text-white text-xs font-semibold rounded-full">ХИТ ПРОДАЖ</span>
