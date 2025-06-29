@@ -278,14 +278,14 @@
                             <a href="/catalog/suv" class="block px-4 py-2 text-sm text-slate-200 hover:bg-slate-700 dark:hover:bg-slate-600 hover:text-emax-lightpurple transition-colors">Внедорожники</a>
                             <a href="/catalog/electro" class="block px-4 py-2 text-sm text-slate-200 hover:bg-slate-700 dark:hover:bg-slate-600 hover:text-emax-lightpurple transition-colors">Электромобили</a>
                             <div class="border-t border-slate-700 dark:border-slate-600 my-1"></div>
-                            <a href="/catalog/new" class="block px-4 py-2 text-sm text-slate-200 hover:bg-slate-700 dark:hover:bg-slate-600 hover:text-emax-lightpurple transition-colors">Новые поступления</a>
+                            <a href="/catalog" class="block px-4 py-2 text-sm text-slate-200 hover:bg-slate-700 dark:hover:bg-slate-600 hover:text-emax-lightpurple transition-colors">Новые поступления</a>
                         </div>
                     </div>
                 </div>
                 
                 <a href="/test-drive" class="nav-item text-white hover:text-emax-lightpurple transition-colors">Тест-драйв</a>
                 <a href="/tradein" class="nav-item text-white hover:text-emax-lightpurple transition-colors">Trade-In</a>
-                <a href="/about" class="nav-item text-white hover:text-emax-lightpurple transition-colors">О компании</a>
+                <a href="/onas" class="nav-item text-white hover:text-emax-lightpurple transition-colors">О компании</a>
             </nav>
 
             <!-- Правая часть хедера -->
