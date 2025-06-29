@@ -18,9 +18,9 @@ Route::get('/onas', function () {
 })->name('onas');
 
 // Страница модели Lisan (из папки car_model)
-Route::get('/lisan', function () {
-    return view('car_model.lisan');
-})->name('lisan');
+Route::get('/zeekr', function () {
+    return view('car_model.zeekr');
+})->name('zeekr');
 Route::get('/byd_yangwang_u8', function () {
     return view('car_model.byd_yangwang_u8');
 })->name('byd_yangwang_u8');

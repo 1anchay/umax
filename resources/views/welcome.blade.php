@@ -229,28 +229,28 @@
                 <!-- Brand 1 -->
                 <div class="group relative p-6 bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2">
                     <div class="absolute inset-0 rounded-xl border-2 border-transparent group-hover:border-pink-500/20 transition-all duration-300"></div>
-                    <img src="https://www.carlogos.org/logo/Geely-logo-2014-1920x1080.png" alt="Geely" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
+                    <img src="images/geely.png" alt="Geely" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
                     <h3 class="mt-4 text-center font-medium text-gray-700 group-hover:text-gray-900">Geely</h3>
                 </div>
                 
                 <!-- Brand 2 -->
                 <div class="group relative p-6 bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2">
                     <div class="absolute inset-0 rounded-xl border-2 border-transparent group-hover:border-indigo-500/20 transition-all duration-300"></div>
-                    <img src="https://www.carlogos.org/logo/Changan-logo-2010-1920x1080.png" alt="Changan" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
+                    <img src="images/changan.jpg" alt="Changan" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
                     <h3 class="mt-4 text-center font-medium text-gray-700 group-hover:text-gray-900">Changan</h3>
                 </div>
                 
                 <!-- Brand 3 -->
                 <div class="group relative p-6 bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2">
                     <div class="absolute inset-0 rounded-xl border-2 border-transparent group-hover:border-pink-500/20 transition-all duration-300"></div>
-                    <img src="https://www.carlogos.org/logo/Chery-logo-2013-1920x1080.png" alt="Chery" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
+                    <img src="images/chery.png" alt="Chery" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
                     <h3 class="mt-4 text-center font-medium text-gray-700 group-hover:text-gray-900">Chery</h3>
                 </div>
                 
                 <!-- Brand 4 -->
                 <div class="group relative p-6 bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2">
                     <div class="absolute inset-0 rounded-xl border-2 border-transparent group-hover:border-indigo-500/20 transition-all duration-300"></div>
-                    <img src="https://www.carlogos.org/logo/Great-Wall-logo-1920x1080.png" alt="Great Wall" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
+                    <img src="images/greatwall.png" alt="Great Wall" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
                     <h3 class="mt-4 text-center font-medium text-gray-700 group-hover:text-gray-900">Great Wall</h3>
                 </div>
                 
@@ -264,7 +264,7 @@
                 <!-- Brand 6 -->
                 <div class="group relative p-6 bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2">
                     <div class="absolute inset-0 rounded-xl border-2 border-transparent group-hover:border-indigo-500/20 transition-all duration-300"></div>
-                    <img src="https://www.carlogos.org/logo/FAW-logo-2010-1920x1080.png" alt="FAW" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
+                    <img src="images/faw.jpg" alt="FAW" class="h-16 mx-auto object-contain grayscale group-hover:grayscale-0 transition-all duration-500">
                     <h3 class="mt-4 text-center font-medium text-gray-700 group-hover:text-gray-900">FAW</h3>
                 </div>
             </div>
@@ -474,7 +474,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <button class="btn btn-secondary">Заказать звонок</button>
+            <a href="{{ route('zeekr') }}" class="btn btn-secondary">Посмотреть модель</a>
                 <button class="btn btn-primary">Записаться на тест-драйв</button>
             </div>
         </div>
@@ -532,7 +532,7 @@
                 </div>
             </div>
             <div class="modal-footer">
-                <button class="btn btn-secondary">Заказать звонок</button>
+               <a href="{{ route('byd_yangwang_u8') }}" class="btn btn-secondary">Посмотреть модель</a>
                 <button class="btn btn-primary">Записаться на тест-драйв</button>
             </div>
         </div>
